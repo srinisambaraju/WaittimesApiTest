@@ -1,0 +1,574 @@
+1531779942089	geckodriver	INFO	geckodriver 0.20.1
+1531779942097	geckodriver	INFO	Listening on 127.0.0.1:63248
+1531779945124	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SSAMBA~1\\AppData\\Local\\Temp\\rust_mozprofile.x6Ak8A9mXd9y"
+Unable to read VR Path Registry from C:\Users\SSambaraju\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\SSambaraju\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\SSambaraju\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\SSambaraju\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\SSambaraju\AppData\Local\openvr\openvrpaths.vrpath
+1531779947685	Marionette	INFO	Listening on port 63257
+1531779948290	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4692, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4692, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/bui*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 364, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531936493852	geckodriver	INFO	geckodriver 0.20.1
+1531936493861	geckodriver	INFO	Listening on 127.0.0.1:50712
+1531936496886	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\SSAMBA~1\\AppData\\Local\\Temp\\rust_mozprofile.IxVmDsA9Aj2B"
+Unable to read VR Path Registry from C:\Users\SSambaraju\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\SSambaraju\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\SSambaraju\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\SSambaraju\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\SSambaraju\AppData\Local\openvr\openvrpaths.vrpath
+1531936499952	Marionette	INFO	Listening on port 50720
+1531936500088	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 12492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channe[Parent 2428, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 2428, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 7648, Chrome_Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1531936538307	geckodriver	INFO	geckodriver 0.20.1
+1531936538316	geckodriver	INFO	Listening on 127.0.0.1:50766
+1543446471083	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAMBA~1\\AppData\\Local\\Temp\\rust_mozprofile.LSjhfSCaD05I"
+1543446475300	Marionette	INFO	Listening on port 62249
+1543446475601	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1543446486240	Marionette	INFO	Stopped listening on port 62249
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 18312, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 15656, Chrome_ChildThr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543446515779	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAMBA~1\\AppData\\Local\\Temp\\rust_mozprofile.qxHizm4d2b3Z"
+1543446518243	Marionette	INFO	Listening on port 62383
+1543446518494	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/PageStyleChild.jsm, line 17: TypeError: mm is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 7392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1772, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 231543446742473	Marionette	INFO	Stopped listening on port 62383
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543447411250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAMBA~1\\AppData\\Local\\Temp\\rust_mozprofile.XgedMca2Eq51"
+1543447434154	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAMBA~1\\AppData\\Local\\Temp\\rust_mozprofile.wWpqdximIy2G"
+out of memory: 0x0000000000001000 bytes requested
+[Child 7880, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ip1543447506681	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAMBA~1\\AppData\\Local\\Temp\\rust_mozprofile.cqWuWRURw5kM"
+out of memory: 0x0000000000000070 bytes requested
+1543447574539	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAMBA~1\\AppData\\Local\\Temp\\rust_mozprofile.5YE4ANgMcOBE"
+1543447577648	Marionette	INFO	Listening on port 64672
+1543447577765	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1267,3184)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 144, 1267, 3184
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1267,600)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1267,3184)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 144, 1267, 3184
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1267,600)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1267,3184)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 144, 1267, 3184
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1267,3184)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 144, 1267, 3184
+JavaScript error: blob:https://www.amazon.com/a690290a-f582-4946-a06d-ef6169c839e0, line 6: uncaught exception: out of memory
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1267,3184)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 144, 1267, 3184
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1267,3184)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 144, 1267, 3184
+JavaScript error: resource:///actors/PageStyleChild.jsm, line 17: TypeError: mm is null
+JavaScript error: resource:///actors/PageStyleChild.jsm, line 17: TypeError: mm is null
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x190091,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x190084,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 22364, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543447586991	Marionette	INFO	Stopped listening on port 64672
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543447950915	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAMBA~1\\AppData\\Local\\Temp\\rust_mozprofile.tJ0t55vkT6VE"
+1543447954514	Marionette	INFO	Listening on port 65314
+1543447954738	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1267,2493)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1267, 2493
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1267,3328)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1267, 3328
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1267,3328)texture11: false Code: 0x8007000e
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1267,3328)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1267, 3328
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+[GFX1-]: [D3D11] 2 CreateTexture2D failure Size: Size(1267,3328)texture11: false Code: 0x8007000e
+[GFX1-]: Failed buffer for 0, 0, 1267, 3328
+JavaScript error: , line 0: uncaught exception: out of memory
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x190091,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x190084,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 3900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3900, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Child 9672, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 96721543447958645	Marionette	INFO	Stopped listening on port 65314
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 23
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543448060056	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAMBA~1\\AppData\\Local\\Temp\\rust_mozprofile.3zZhuRiWRsS3"
+1543448062974	Marionette	INFO	Listening on port 65519
+1543448063279	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: [D2D1.1] 4CreateBitmap failure Size(1500,600) Code: 0x8899000c format 1
+[GFX1]: [D2D1.1] 4CreateBitmap failure Size(255,255) Code: 0x8899000c format 1
+[GFX1]: [D2D1.1] 4CreateBitmap failure Size(255,255) Code: 0x8899000c format 1
+[GFX1]: [D2D1.1] 4CreateBitmap failure Size(255,255) Code: 0x8899000c format 1
+[GFX1]: [D2D1.1] 4CreateBitmap failure Size(350,380) Code: 0x8899000c format 0
+[GFX1]: [D2D1.1] 4CreateBitmap failure Size(400,39) Code: 0x8899000c format 1
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 4
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+[GFX1-]: LayerManager::EndTransaction skip RenderLayer().
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: https://images-na.ssl-images-amazon.com/images/G/01/ape-dev/ape/sf/desktop/DAsf-1.50.fc84d6e._V479637954_.js?csm_attribution=APE-SafeFrame, line 1: SyntaxError: expected expression, got '}'
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+Assertion failure: [unhandlable oom] Bitmap OOM, at z:/build/build/src/js/src/vm/JSContext.cpp:1576
+JavaScript error: , line 0: uncaught exception: out of memory
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 4
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x190091,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x190084,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 13432, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13432, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+[Parent 13432, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543448065686	Marionette	INFO	Stopped listening on port 65519
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 13700, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543603193979	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAMBA~1\\AppData\\Local\\Temp\\rust_mozprofile.3UfsLOnEZ6So"
+1543603196740	Marionette	INFO	Listening on port 62440
+1543603197201	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://oidc.idp.elogin.att.com/lrr/attLRR/LrrController?TAM_OP=token_login&USERNAME=unauthenticated&ERROR_CODE=0x00000000&ERROR_TEXT=HPDBA0521I%20%20%20Successful%20completion&METHOD=GET&URL=%2Fmga%2Fsps%2Foauth%2Foauth20%2Fauthorize%3Fnonce%3DrLNf0DY1fc%26redirect_uri%3Dhttps%253A%252F%252Fwww.e-access.att.com%252Fisam%252Fsps%252Foidc%252Frp%252FATT-RP%252Fredirect%252FATT-Password%26response_mode%3Dform_post%26scope%3Dopenid%26Target%3Dhttps%253A%252F%252Fwww.e-access.att.com%252Fdws%252FdwsPortal%252FlistReport.do%26response_type%3Did_token%26state%3DKjl9jZU971%26client_id%3DPassword-ATT&HOSTNAME=oidc.idp.elogin.att.com&AUTHNLEVEL=&FAILREASON=&PROTOCOL=https&OLDSESSION=&EXPIRE_SECS=0, line 770: unreachable code after return statement
+[Parent 17316, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17316, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/1543603204251	Marionette	INFO	Stopped listening on port 62440
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 15668, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543606963515	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAMBA~1\\AppData\\Local\\Temp\\rust_mozprofile.sEyXUhMGJsr2"
+1543606966865	Marionette	INFO	Listening on port 53094
+1543606967349	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://oidc.idp.elogin.att.com/lrr/attLRR/LrrController?TAM_OP=token_login&USERNAME=unauthenticated&ERROR_CODE=0x00000000&ERROR_TEXT=HPDBA0521I%20%20%20Successful%20completion&METHOD=GET&URL=%2Fmga%2Fsps%2Foauth%2Foauth20%2Fauthorize%3Fnonce%3DkD9e8H3GMF%26redirect_uri%3Dhttps%253A%252F%252Fwww.e-access.att.com%252Fisam%252Fsps%252Foidc%252Frp%252FATT-RP%252Fredirect%252FATT-Password%26response_mode%3Dform_post%26scope%3Dopenid%26Target%3Dhttps%253A%252F%252Fwww.e-access.att.com%252Fdws%252FdwsPortal%252FlistReport.do%26response_type%3Did_token%26state%3D5AB33ltR60%26client_id%3DPassword-ATT&HOSTNAME=oidc.idp.elogin.att.com&AUTHNLEVEL=&FAILREASON=&PROTOCOL=https&OLDSESSION=&EXPIRE_SECS=0, line 770: unreachable code after return statement
+[Parent 4336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19944, Chrome[Child 1536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543607013795	Marionette	INFO	Stopped listening on port 53094
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543607024708	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAMBA~1\\AppData\\Local\\Temp\\rust_mozprofile.UJSyDzilFoGd"
+1543607027342	Marionette	INFO	Listening on port 53225
+1543607027435	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://oidc.idp.elogin.att.com/lrr/attLRR/LrrController?TAM_OP=token_login&USERNAME=unauthenticated&ERROR_CODE=0x00000000&ERROR_TEXT=HPDBA0521I%20%20%20Successful%20completion&METHOD=GET&URL=%2Fmga%2Fsps%2Foauth%2Foauth20%2Fauthorize%3Fnonce%3DvBQytksbYu%26redirect_uri%3Dhttps%253A%252F%252Fwww.e-access.att.com%252Fisam%252Fsps%252Foidc%252Frp%252FATT-RP%252Fredirect%252FATT-Password%26response_mode%3Dform_post%26scope%3Dopenid%26Target%3Dhttps%253A%252F%252Fwww.e-access.att.com%252Fdws%252FdwsPortal%252FlistReport.do%26response_type%3Did_token%26state%3DpbyWza1AgO%26client_id%3DPassword-ATT&HOSTNAME=oidc.idp.elogin.att.com&AUTHNLEVEL=&FAILREASON=&PROTOCOL=https&OLDSESSION=&EXPIRE_SECS=0, line 770: unreachable code after return statement
+[Parent 10652, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543607138266	Marionette	INFO	Stopped listening on port 53225
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543607148563	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAMBA~1\\AppData\\Local\\Temp\\rust_mozprofile.btr5cIuRJHVw"
+1543607151681	Marionette	INFO	Listening on port 53451
+1543607151805	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://oidc.idp.elogin.att.com/lrr/attLRR/LrrController?TAM_OP=token_login&USERNAME=unauthenticated&ERROR_CODE=0x00000000&ERROR_TEXT=HPDBA0521I%20%20%20Successful%20completion&METHOD=GET&URL=%2Fmga%2Fsps%2Foauth%2Foauth20%2Fauthorize%3Fnonce%3DukVjOanEkz%26redirect_uri%3Dhttps%253A%252F%252Fwww.e-access.att.com%252Fisam%252Fsps%252Foidc%252Frp%252FATT-RP%252Fredirect%252FATT-Password%26response_mode%3Dform_post%26scope%3Dopenid%26Target%3Dhttps%253A%252F%252Fwww.e-access.att.com%252Fdws%252FdwsPortal%252FlistReport.do%26response_type%3Did_token%26state%3DWCosUpqLwu%26client_id%3DPassword-ATT&HOSTNAME=oidc.idp.elogin.att.com&AUTHNLEVEL=&FAILREASON=&PROTOCOL=https&OLDSESSION=&EXPIRE_SECS=0, line 770: unreachable code after return statement
+[Parent 19868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win1543607182611	Marionette	INFO	Stopped listening on port 53451
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 2
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543609282134	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAMBA~1\\AppData\\Local\\Temp\\rust_mozprofile.mv7NgF3eU2um"
+1543609285305	Marionette	INFO	Listening on port 57623
+1543609285510	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://oidc.idp.elogin.att.com/lrr/attLRR/LrrController?TAM_OP=token_login&USERNAME=unauthenticated&ERROR_CODE=0x00000000&ERROR_TEXT=HPDBA0521I%20%20%20Successful%20completion&METHOD=GET&URL=%2Fmga%2Fsps%2Foauth%2Foauth20%2Fauthorize%3Fnonce%3DhUmoEWElYS%26redirect_uri%3Dhttps%253A%252F%252Fwww.e-access.att.com%252Fisam%252Fsps%252Foidc%252Frp%252FATT-RP%252Fredirect%252FATT-Password%26response_mode%3Dform_post%26scope%3Dopenid%26Target%3Dhttps%253A%252F%252Fwww.e-access.att.com%252Fdws%252FdwsPortal%252FlistReport.do%26response_type%3Did_token%26state%3DH0yIV9VGdN%26client_id%3DPassword-ATT&HOSTNAME=oidc.idp.elogin.att.com&AUTHNLEVEL=&FAILREASON=&PROTOCOL=https&OLDSESSION=&EXPIRE_SECS=0, line 770: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543609307420	Marionette	INFO	Stopped listening on port 57623
+[Parent 24536, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 24536, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 21096, Chrome_Child
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543609380097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAMBA~1\\AppData\\Local\\Temp\\rust_mozprofile.nBYtHenY2Wto"
+1543609382419	Marionette	INFO	Listening on port 57808
+1543609382842	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://oidc.idp.elogin.att.com/lrr/attLRR/LrrController?TAM_OP=token_login&USERNAME=unauthenticated&ERROR_CODE=0x00000000&ERROR_TEXT=HPDBA0521I%20%20%20Successful%20completion&METHOD=GET&URL=%2Fmga%2Fsps%2Foauth%2Foauth20%2Fauthorize%3Fnonce%3D3lxZl5dbLy%26redirect_uri%3Dhttps%253A%252F%252Fwww.e-access.att.com%252Fisam%252Fsps%252Foidc%252Frp%252FATT-RP%252Fredirect%252FATT-Password%26response_mode%3Dform_post%26scope%3Dopenid%26Target%3Dhttps%253A%252F%252Fwww.e-access.att.com%252Fdws%252FdwsPortal%252FlistReport.do%26response_type%3Did_token%26state%3DeUwttrzyHg%26client_id%3DPassword-ATT&HOSTNAME=oidc.idp.elogin.att.com&AUTHNLEVEL=&FAILREASON=&PROTOCOL=https&OLDSESSION=&EXPIRE_SECS=0, line 770: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Parent 22248, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 22248, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543609416864	Marionette	INFO	Stopped listening on port 57808
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543609431071	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAMBA~1\\AppData\\Local\\Temp\\rust_mozprofile.IealoSmTKUId"
+1543609433282	Marionette	INFO	Listening on port 57920
+1543609433304	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://oidc.idp.elogin.att.com/lrr/attLRR/LrrController?TAM_OP=token_login&USERNAME=unauthenticated&ERROR_CODE=0x00000000&ERROR_TEXT=HPDBA0521I%20%20%20Successful%20completion&METHOD=GET&URL=%2Fmga%2Fsps%2Foauth%2Foauth20%2Fauthorize%3Fnonce%3DzJVWvkS9Bw%26redirect_uri%3Dhttps%253A%252F%252Fwww.e-access.att.com%252Fisam%252Fsps%252Foidc%252Frp%252FATT-RP%252Fredirect%252FATT-Password%26response_mode%3Dform_post%26scope%3Dopenid%26Target%3Dhttps%253A%252F%252Fwww.e-access.att.com%252Fdws%252FdwsPortal%252FlistReport.do%26response_type%3Did_token%26state%3DXVWYmtaB48%26client_id%3DPassword-ATT&HOSTNAME=oidc.idp.elogin.att.com&AUTHNLEVEL=&FAILREASON=&PROTOCOL=https&OLDSESSION=&EXPIRE_SECS=0, line 770: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Parent 7516, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7516, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20792, Chrome_C[Child 1360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1360, Chrome_ChildThrea[Parent 7516, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2941543609508605	Marionette	INFO	Stopped listening on port 57920
+[GPU 1840
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543610087026	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAMBA~1\\AppData\\Local\\Temp\\rust_mozprofile.4GWIUp4QBEvb"
+1543610090056	Marionette	INFO	Listening on port 59188
+1543610090251	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://oidc.idp.elogin.att.com/lrr/attLRR/LrrController?TAM_OP=token_login&USERNAME=unauthenticated&ERROR_CODE=0x00000000&ERROR_TEXT=HPDBA0521I%20%20%20Successful%20completion&METHOD=GET&URL=%2Fmga%2Fsps%2Foauth%2Foauth20%2Fauthorize%3Fnonce%3DALTyv0tc9q%26redirect_uri%3Dhttps%253A%252F%252Fwww.e-access.att.com%252Fisam%252Fsps%252Foidc%252Frp%252FATT-RP%252Fredirect%252FATT-Password%26response_mode%3Dform_post%26scope%3Dopenid%26Target%3Dhttps%253A%252F%252Fwww.e-access.att.com%252Fdws%252FdwsPortal%252FlistReport.do%26response_type%3Did_token%26state%3DmEtxquPnyW%26client_id%3DPassword-ATT&HOSTNAME=oidc.idp.elogin.att.com&AUTHNLEVEL=&FAILREASON=&PROTOCOL=https&OLDSESSION=&EXPIRE_SECS=0, line 770: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Parent 7768, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7768, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7768, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543611364887	Marionette	INFO	Stopped listening on port 59188
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+p.elogin.att.com&AUTHNLEVEL=&FAILREASON=&PROTOCOL=https&OLDSESSION=&EXPIRE_SECS=0, line 770: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Parent 7648, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[[Child 1560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.1543611365796	Marionette	INFO	Listening on port 61483
+1543611366329	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://oidc.idp.elogin.att.com/lrr/attLRR/LrrController?TAM_OP=token_login&USERNAME=unauthenticated&ERROR_CODE=0x00000000&ERROR_TEXT=HPDBA0521I%20%20%20Successful%20completion&METHOD=GET&URL=%2Fmga%2Fsps%2Foauth%2Foauth20%2Fauthorize%3Fnonce%3D3DWQDtWzkb%26redirect_uri%3Dhttps%253A%252F%252Fwww.e-access.att.com%252Fisam%252Fsps%252Foidc%252Frp%252FATT-RP%252Fredirect%252FATT-Password%26response_mode%3Dform_post%26scope%3Dopenid%26Target%3Dhttps%253A%252F%252Fwww.e-access.att.com%252Fdws%252FdwsPortal%252FlistReport.do%26response_type%3Did_token%26state%3DswbaQyQmKi%26client_id%3DPassword-ATT&HOSTNAME=oidc.idp.elogin.att.com&AUTHNLEVEL=&FAILREASON=&PROTOCOL=https&OLDSESSION=&EXPIRE_SECS=0, line 770: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Parent 15288, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 15288, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chrom[Parent 15288, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9776, Chrome_ChildThread] WARNING: pipe error1543612425767	Marionette	INFO	Stopped listening on port 61483
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ode after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Parent 23424, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543612428973	Marionette	INFO	Stopped listening on port 62881
+[GPU 2332
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543612435062	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "download.default_directory=c:/Downloads" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAMBA~1\\AppData\\Local\\Temp\\rust_mozprofile.hjNZRuOmojVJ"
+1543612437616	Marionette	INFO	Listening on port 63431
+1543612437786	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://oidc.idp.elogin.att.com/lrr/attLRR/LrrController?TAM_OP=token_login&USERNAME=unauthenticated&ERROR_CODE=0x00000000&ERROR_TEXT=HPDBA0521I%20%20%20Successful%20completion&METHOD=GET&URL=%2Fmga%2Fsps%2Foauth%2Foauth20%2Fauthorize%3Fnonce%3DQpypdKWIrD%26redirect_uri%3Dhttps%253A%252F%252Fwww.e-access.att.com%252Fisam%252Fsps%252Foidc%252Frp%252FATT-RP%252Fredirect%252FATT-Password%26response_mode%3Dform_post%26scope%3Dopenid%26Target%3Dhttps%253A%252F%252Fwww.e-access.att.com%252Fdws%252FdwsPortal%252FlistReport.do%26response_type%3Did_token%26state%3DkJNwDEHxbT%26client_id%3DPassword-ATT&HOSTNAME=oidc.idp.elogin.att.com&AUTHNLEVEL=&FAILREASON=&PROTOCOL=https&OLDSESSION=&EXPIRE_SECS=0, line 770: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Parent 7160, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src1543857147961	Marionette	INFO	Stopped listening on port 63431
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+FjjgEkqyt%26redirect_uri%3Dhttps%253A%252F%252Fwww.e-access.att.com%252Fisam%252Fsps%252Foidc%252Frp%252FATT-RP%252Fredirect%252FATT-Password%26response_mode%3Dform_post%26scope%3Dopenid%26Target%3Dhttps%253A%252F%252Fwww.e-access.att.com%252Fdws%252FdwsPortal%252FlistReport.do%26response_type%3Did_token%26state%3DO9Yw5zBbDz%26client_id%3DPassword-ATT&HOSTNAME=oidc.idp.elogin.att.com&AUTHNLEVEL=&FAILREASON=&PROTOCOL=https&OLDSESSION=&EXPIRE_SECS=0, line 770: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Parent 212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543857145915	Marionette	INFO	Stopped listening on port 57645
+2Fsps%2Foauth%2Foauth20%2Fauthorize%3Fnonce%3DU3gp1eP1mq%26redirect_uri%3Dhttps%253A%252F%252Fwww.e-access.att.com%252Fisam%252Fsps%252Foidc%252Frp%252FATT-RP%252Fredirect%252FATT-Password%26response_mode%3Dform_post%26scope%3Dopenid%26Target%3Dhttps%253A%252F%252Fwww.e-access.att.com%252Fdws%252FdwsPortal%252FlistReport.do%26response_type%3Did_token%26state%3DZatdjJkJj0%26client_id%3DPassword-ATT&HOSTNAME=oidc.idp.elogin.att.com&AUTHNLEVEL=&FAILREASON=&PROTOCOL=https&OLDSESSION=&EXPIRE_SECS=0, line 770: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Parent 10004, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commo[Parent 10004, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/bu1543857254012	Marionette	INFO	Stopped listening on port 58692
+[GPU 54
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543857362616	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "download.default_directory=c:/Downloads/AttDashboard" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAMBA~1\\AppData\\Local\\Temp\\rust_mozprofile.Zf0ktWPX3tSD"
+1543857365000	Marionette	INFO	Listening on port 59072
+1543857365342	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://oidc.idp.elogin.att.com/lrr/attLRR/LrrController?TAM_OP=token_login&USERNAME=unauthenticated&ERROR_CODE=0x00000000&ERROR_TEXT=HPDBA0521I%20%20%20Successful%20completion&METHOD=GET&URL=%2Fmga%2Fsps%2Foauth%2Foauth20%2Fauthorize%3Fnonce%3DzsFpkYeODz%26redirect_uri%3Dhttps%253A%252F%252Fwww.e-access.att.com%252Fisam%252Fsps%252Foidc%252Frp%252FATT-RP%252Fredirect%252FATT-Password%26response_mode%3Dform_post%26scope%3Dopenid%26Target%3Dhttps%253A%252F%252Fwww.e-access.att.com%252Fdws%252FdwsPortal%252FlistReport.do%26response_type%3Did_token%26state%3D380hqOzEQB%26client_id%3DPassword-ATT&HOSTNAME=oidc.idp.elogin.att.com&AUTHNLEVEL=&FAILREASON=&PROTOCOL=https&OLDSESSION=&EXPIRE_SECS=0, line 770: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Parent 25668, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 25668, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23036, Chro1543857691924	Marionette	INFO	Stopped listening on port 59072
+[GPU 24
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543857706952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "download.default_directory=c:/Downloads/AttDashboard" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAMBA~1\\AppData\\Local\\Temp\\rust_mozprofile.dulrTPT4wXkv"
+1543857709554	Marionette	INFO	Listening on port 59755
+1543857709672	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://oidc.idp.elogin.att.com/lrr/attLRR/LrrController?TAM_OP=token_login&USERNAME=unauthenticated&ERROR_CODE=0x00000000&ERROR_TEXT=HPDBA0521I%20%20%20Successful%20completion&METHOD=GET&URL=%2Fmga%2Fsps%2Foauth%2Foauth20%2Fauthorize%3Fnonce%3DjuxkSJBJCh%26redirect_uri%3Dhttps%253A%252F%252Fwww.e-access.att.com%252Fisam%252Fsps%252Foidc%252Frp%252FATT-RP%252Fredirect%252FATT-Password%26response_mode%3Dform_post%26scope%3Dopenid%26Target%3Dhttps%253A%252F%252Fwww.e-access.att.com%252Fdws%252FdwsPortal%252FlistReport.do%26response_type%3Did_token%26state%3DoKlrdHZpau%26client_id%3DPassword-ATT&HOSTNAME=oidc.idp.elogin.att.com&AUTHNLEVEL=&FAILREASON=&PROTOCOL=https&OLDSESSION=&EXPIRE_SECS=0, line 770: unreachable code after return statement
+[Parent 13244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13244, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2481543857842458	Marionette	INFO	Stopped listening on port 59755
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 2209
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543863219615	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAMBA~1\\AppData\\Local\\Temp\\rust_mozprofile.MkV7C1oEhhBx"
+1543863222054	Marionette	INFO	Listening on port 51924
+1543863222353	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://oidc.idp.elogin.att.com/lrr/attLRR/LrrController?TAM_OP=token_login&USERNAME=unauthenticated&ERROR_CODE=0x00000000&ERROR_TEXT=HPDBA0521I%20%20%20Successful%20completion&METHOD=GET&URL=%2Fmga%2Fsps%2Foauth%2Foauth20%2Fauthorize%3Fnonce%3DDLNCZCJILk%26redirect_uri%3Dhttps%253A%252F%252Fwww.e-access.att.com%252Fisam%252Fsps%252Foidc%252Frp%252FATT-RP%252Fredirect%252FATT-Password%26response_mode%3Dform_post%26scope%3Dopenid%26Target%3Dhttps%253A%252F%252Fwww.e-access.att.com%252Fdws%252FdwsPortal%252FlistReport.do%26response_type%3Did_token%26state%3D1BK4YdbMkP%26client_id%3DPassword-ATT&HOSTNAME=oidc.idp.elogin.att.com&AUTHNLEVEL=&FAILREASON=&PROTOCOL=https&OLDSESSION=&EXPIRE_SECS=0, line 770: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Parent 22308, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 22308, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 22308, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26136, Chrome1543865034423	Marionette	INFO	Stopped listening on port 51924
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+t%3Dhttps%253A%252F%252Fwww.e-access.att.com%252Fdws%252FdwsPortal%252FlistReport.do%26response_type%3Did_token%26state%3Dm3Japl0gWJ%26client_id%3DPassword-ATT&HOSTNAME=oidc.idp.elogin.att.com&AUTHNLEVEL=&FAILREASON=&PROTOCOL=https&OLDSESSION=&EXPIRE_SECS=0, line 770: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Parent 21404, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[[Parent 21404, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 681543865026500	Marionette	INFO	Stopped listening on port 52635
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+2F%252Fwww.e-access.att.com%252Fisam%252Fsps%252Foidc%252Frp%252FATT-RP%252Fredirect%252FATT-Password%26response_mode%3Dform_post%26scope%3Dopenid%26Target%3Dhttps%253A%252F%252Fwww.e-access.att.com%252Fdws%252FdwsPortal%252FlistReport.do%26response_type%3Did_token%26state%3DyMu9MR3eDq%26client_id%3DPassword-ATT&HOSTNAME=oidc.idp.elogin.att.com&AUTHNLEVEL=&FAILREASON=&PROTOCOL=https&OLDSESSION=&EXPIRE_SECS=0, line 770: unreachable code after return statement
+[Child 17072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc[Child 17296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17296[Parent 24440, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1543864272850	Marionette	INFO	Stopped listening on port 53828
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543865021700	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "download.default_directory=c:/Downloads/AttDashboard" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAMBA~1\\AppData\\Local\\Temp\\rust_mozprofile.zOBlwKv6rfxc"
+1543865025199	Marionette	INFO	Listening on port 55124
+1543865025538	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://oidc.idp.elogin.att.com/lrr/attLRR/LrrController?TAM_OP=token_login&USERNAME=unauthenticated&ERROR_CODE=0x00000000&ERROR_TEXT=HPDBA0521I%20%20%20Successful%20completion&METHOD=GET&URL=%2Fmga%2Fsps%2Foauth%2Foauth20%2Fauthorize%3Fnonce%3DtyLgnXG2Z2%26redirect_uri%3Dhttps%253A%252F%252Fwww.e-access.att.com%252Fisam%252Fsps%252Foidc%252Frp%252FATT-RP%252Fredirect%252FATT-Password%26response_mode%3Dform_post%26scope%3Dopenid%26Target%3Dhttps%253A%252F%252Fwww.e-access.att.com%252Fdws%252FdwsPortal%252FlistReport.do%26response_type%3Did_token%26state%3DFDf5zgryIr%26client_id%3DPassword-ATT&HOSTNAME=oidc.idp.elogin.att.com&AUTHNLEVEL=&FAILREASON=&PROTOCOL=https&OLDSESSION=&EXPIRE_SECS=0, line 770: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Parent 1064, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, lin[eChild 4320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src 346/
+ipc/chrom[Chilium/src/chrome/common/ipc_channel_win.cc, lind e 3461
+2252, Chrome_ChildThread] [Child 4320, Chrome_ChildThread] WARNING:1543865104623	Marionette	INFO	Stopped listening on port 55124
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1543865144582	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "download.default_directory=c:/Downloads/AttDashboard" "-foreground" "-no-remote" "-profile" "C:\\Users\\SSAMBA~1\\AppData\\Local\\Temp\\rust_mozprofile.tsDVy0pynlN8"
+1543865147639	Marionette	INFO	Listening on port 55353
+1543865147848	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://oidc.idp.elogin.att.com/lrr/attLRR/LrrController?TAM_OP=token_login&USERNAME=unauthenticated&ERROR_CODE=0x00000000&ERROR_TEXT=HPDBA0521I%20%20%20Successful%20completion&METHOD=GET&URL=%2Fmga%2Fsps%2Foauth%2Foauth20%2Fauthorize%3Fnonce%3DYKtLEQpOhm%26redirect_uri%3Dhttps%253A%252F%252Fwww.e-access.att.com%252Fisam%252Fsps%252Foidc%252Frp%252FATT-RP%252Fredirect%252FATT-Password%26response_mode%3Dform_post%26scope%3Dopenid%26Target%3Dhttps%253A%252F%252Fwww.e-access.att.com%252Fdws%252FdwsPortal%252FlistReport.do%26response_type%3Did_token%26state%3DYLZjy87M8v%26client_id%3DPassword-ATT&HOSTNAME=oidc.idp.elogin.att.com&AUTHNLEVEL=&FAILREASON=&PROTOCOL=https&OLDSESSION=&EXPIRE_SECS=0, line 770: unreachable code after return statement
+[Parent 5336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6800, Chrome_Chi[Child 2632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2632, Chrome_ChildThread] WARNING: pipe error: 109: file [Parent 5336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.c1543865261802	Marionette	INFO	Stopped listening on port 55353
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
